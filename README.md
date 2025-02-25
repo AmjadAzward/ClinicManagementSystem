@@ -1,2 +1,2 @@
 # ClinicManagementSystem
-Clinic Management System Project
+Clinic Management System Project using C#
